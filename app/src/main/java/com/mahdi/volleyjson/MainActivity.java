@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<Model> list;
     private CustomAdapter adapter;
     private RecyclerView recyclerView;
-    private static String JSON_URL = "https://raw.githubusercontent.com/mahdisahrai/RetrofitJson/master/file.json";
+    private static String JSON_URL = "https://raw.githubusercontent.com/mehdisahraeei/usejson-retrofit/master/file.json";
 
 
     @Override
